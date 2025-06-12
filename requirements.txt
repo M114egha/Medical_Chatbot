@@ -1,0 +1,5 @@
+#Step1:  Load raw pdf
+#Step2: Create chunks
+#Step3: Create embeddings
+#Step4: Create vector store
+#Step5: Store embedding in Faiss 
